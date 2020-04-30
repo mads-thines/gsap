@@ -93,7 +93,7 @@
     "gulp-stylelint-sourcemap": "3.4.2",
     "gulp-uglify": "3.0.0",
     "gulp-util": "3.0.8",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "lodash": "4.17.4",
     "ngrok": "2.2.24",
     "node-sass": "4.7.2",
