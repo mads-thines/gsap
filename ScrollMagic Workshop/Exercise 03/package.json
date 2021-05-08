@@ -86,7 +86,7 @@
     "gulp-util": "3.0.8",
     "imports-loader": "0.8.0",
     "jquery": "3.2.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "ngrok": "2.2.24",
     "node-sass": "4.7.2",
     "node-sass-tilde-importer": "1.0.0",
